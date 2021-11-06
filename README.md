@@ -1,6 +1,7 @@
 
 # FLUTTER CRUD + SQLITE
-Simple Create - Read - Update and Delete Flutter Application 
+Simple Create - Read - Update and Delete Flutter Application
+- It have a button and a simple Navigation, and props
 ## Authors
 
 - [@John Mark Banisilon](https://www.facebook.com/crypto.graphy.39/)
